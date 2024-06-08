@@ -1,0 +1,14 @@
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\bin\Debug\net8.0\c#_calculator.exe
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\bin\Debug\net8.0\c#_calculator.deps.json
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\bin\Debug\net8.0\c#_calculator.runtimeconfig.json
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\bin\Debug\net8.0\c#_calculator.dll
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\bin\Debug\net8.0\c#_calculator.pdb
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.AssemblyInfoInputs.cache
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.AssemblyInfo.cs
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.csproj.CoreCompileInputs.cache
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.dll
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\refint\c#_calculator.dll
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.pdb
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\c#_calculator.genruntimeconfig.cache
+c:\Users\S\Desktop\Projects\VSCODE\c#_calculator\obj\Debug\net8.0\ref\c#_calculator.dll
